@@ -1,0 +1,9 @@
+com/euromoby/model/Rate.class
+com/euromoby/service/RatesService.class
+com/euromoby/service/EcbClient.class
+com/euromoby/web/RatesController.class
+com/euromoby/Application.class
+com/euromoby/model/Currency.class
+com/euromoby/web/CurrencyController.class
+com/euromoby/web/PagesController.class
+com/euromoby/service/EcbClient$1.class
